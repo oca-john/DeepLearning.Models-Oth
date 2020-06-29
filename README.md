@@ -1,6 +1,6 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 
-# Deep Learning Models
+# DeepLearning.Models-Oth
 
 A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
